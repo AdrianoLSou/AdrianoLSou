@@ -1,4 +1,4 @@
-### Olá! Eu sou o Adriano Leal 👋
+### Olá! Eu sou o Adriano Leal.
 
 - 💻 Vindo da área de projetos de interiores em modelagem 3D
 - 🎓 Atualmente, estou cursanso Web Developer Full Stack na Gama Academy
