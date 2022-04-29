@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Adriano Leal 👋
 
-- 🌱 Atualmente, estou cursanso Web Developer Full Stack na Gama Academy.
+- 💻 Vindo da área de projetos de interiores em modelagem 3D
+- 🎓 Atualmente, estou cursanso Web Developer Full Stack na Gama Academy
 - 📫 Contate-me em: adrianoleal35@gmail.com
-- 😄 Pronomes: ele/dele
 <div align="center">
   <a href="https://github.com/AdrianoLSou">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdrianoLSou&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
