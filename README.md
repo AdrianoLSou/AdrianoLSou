@@ -2,6 +2,7 @@
 
 - 💻 Venho da área de projetos de interiores em modelagem 3D;
 - 🎓 Cursei Web Developer Full Stack na Gama Academy;
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá;
 - 📫 Contate-me em: adrianoleal35@gmail.com.
 <div align="center">
   <a href="https://github.com/AdrianoLSou">
