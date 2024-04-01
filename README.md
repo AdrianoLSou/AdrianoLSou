@@ -26,6 +26,8 @@
 <div> 
   <a href = "mailto:adrianoleal35@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriano-leal-s" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://www.instagram.com/lealdev81" target="_blank"> <i class="fa fa-instagram" arial-hidden="true"></i></a>
+  
  
  ![Snake animation](https://github.com/AdrianoLSou/AdrianoLSou/blob/output/github-contribution-grid-snake.svg)
  
