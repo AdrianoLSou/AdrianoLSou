@@ -30,7 +30,7 @@
   
   
  
- ![Snake animation](https://github.com/AdrianoLSou/AdrianoLSou/blob/output/github-contribution-grid-snake.svg%29)
+ ![Snake animation](https://github.com/AdrianoLSou/AdrianoLSou/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
