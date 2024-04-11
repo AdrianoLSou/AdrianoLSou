@@ -31,7 +31,7 @@
 
 
   
- ![Snake gif](https://github.com/AdrianoLSou/AdrianoLSou/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/AdrianoLSou/AdrianoLSou/blob/output/github-contribution-grid-snake.svg)
  
 
 
